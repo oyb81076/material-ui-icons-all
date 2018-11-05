@@ -1,5 +1,5 @@
 # snapshot
-![screen](https://github.com/oyb81076/material-ui-icons-all/blob/master/screen.png)
+![screen](https://github.com/oyb81076/material-ui-icons-all/raw/master/screen.png)
 # build
 yarn build
 
